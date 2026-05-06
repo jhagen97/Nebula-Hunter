@@ -20,4 +20,4 @@ The Galaxy: Defining the first set of planets and their difficulty.
 Persistence: Setting up the database so you can "Save" your pilot.
 
 Mission Control: Launching the first web dashboard where you can click "Hunt" and see the results.
-                Testing the branch workflow for Nebula Hunter.
+                (((Testing the branch workflow for Nebula Hunter.)))
